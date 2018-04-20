@@ -3,4 +3,5 @@
  */
 public class ClassA {
     //clase A
+    //A
 }
